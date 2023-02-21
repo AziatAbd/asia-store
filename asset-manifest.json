@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/asia-store/static/css/main.073c9b0a.css",
+    "main.js": "/asia-store/static/js/main.a10aecaa.js",
+    "static/media/third.webp": "/asia-store/static/media/third.2387d3d587693cfd3dd5.webp",
+    "static/media/fifth.webp": "/asia-store/static/media/fifth.7d30115f0aa99c42e434.webp",
+    "static/media/sixth.webp": "/asia-store/static/media/sixth.6e5bc33968b5ec2dea04.webp",
+    "static/media/first.webp": "/asia-store/static/media/first.26fbed194322488752da.webp",
+    "static/media/second.webp": "/asia-store/static/media/second.50f3715db0926aad0ff1.webp",
+    "static/media/fourth.webp": "/asia-store/static/media/fourth.2e2c7c4702a04e8faa2b.webp",
+    "static/media/seventh.webp": "/asia-store/static/media/seventh.dbb6297bd4fc51c6835e.webp",
+    "static/media/eighth.webp": "/asia-store/static/media/eighth.81ebf86dd1aa788817a8.webp",
+    "static/media/message.svg": "/asia-store/static/media/message.91a8c7af8dbe4109c59381b7c84ec141.svg",
+    "index.html": "/asia-store/index.html",
+    "main.073c9b0a.css.map": "/asia-store/static/css/main.073c9b0a.css.map",
+    "main.a10aecaa.js.map": "/asia-store/static/js/main.a10aecaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a10aecaa.js"
+  ]
+}
